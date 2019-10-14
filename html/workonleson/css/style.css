@@ -1,0 +1,32 @@
+*{
+	box-sizing: border-box;
+    font-size: 25px;
+    margin: 0px;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+}
+body{
+	box-sizing: border-box;
+    font-size: 25px;
+    margin: 0px;
+}
+main{
+	width: 75%;
+    float: right;
+    padding-left: 1%;
+    background-color: black;
+	
+}
+#menu{
+	width: 25%;
+    float: left;
+    
+    position: fixed;
+	
+}
+
+
+	

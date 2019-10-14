@@ -1,0 +1,17 @@
+a{
+	text-decoration: none;
+	cursor: pointer;
+}
+
+li:first-child{
+	border-bottom: 2px solid;
+	font-size: large;
+}
+li:hover{
+	background-color:red;
+	text-decoration: underline;
+}
+
+li:last-child{
+	border-bottom: 1px solid;
+}

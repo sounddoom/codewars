@@ -1,0 +1,17 @@
+body div header h1 a img{
+	background-color: #6b0000;
+	border: 5px solid black;
+	padding: 5px;
+}
+body div header + main section article{
+	background-color: #6b0000;
+	border: 5px solid black;
+	padding: 5px;
+
+}
+body div header + main + footer address + span{
+	background-color: #6b0000;
+	border: 5px solid black;
+	padding: 5px;
+
+}

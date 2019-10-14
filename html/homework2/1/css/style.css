@@ -1,0 +1,17 @@
+div{
+	background-color: #6b0000;
+	border: 5px solid black;
+	padding: 5px;
+}
+div div{
+	background-color: #00Fb00;
+}
+div div div{
+	background-color: red;
+}
+div div  div div{
+	background-color: blue;
+}
+div div  div  div  div {
+	background-color: orange;
+}
